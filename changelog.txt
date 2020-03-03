@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2020.03.02
+  Features:
+    - Added recipe for upgrading electric-stone-furnace into electric-steel-furnace
+    - Added recipe for upgrading electric-steel-furnace into electric-furnace
+    - Balanced recipes with AAI
+    - Moved Double Smelting tech to only require advanced material processing
+    - Advanced Material Processing 3 now requires Double Smelting
+    - Added 2 new tiers of double electric furnaces to match Electric Furnace upgrades
+    - English and German localization
+    - Fix some pre-reqs in AAI programmable vehicles
+  License:
+    - MIT
